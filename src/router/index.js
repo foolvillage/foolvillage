@@ -4,6 +4,8 @@ import Home from '@/components/Home'
 import Photo from '@/components/Photo'
 import About from '@/components/About'
 
+import Photo_1997 from '@/components/Photo_1997'
+
 Vue.use(Router)
 
 export default new Router({
@@ -25,6 +27,11 @@ export default new Router({
             path: '/about',
             name: 'About',
             component: About
+        },
+        {
+            path: '/photo_1997',
+            name: 'Photo_1997',
+            component: Photo_1997
         }
     ]
 })
