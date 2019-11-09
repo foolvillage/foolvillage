@@ -180,7 +180,7 @@
             <img width="100%" height="100%" src="../assets/images/2006/0.jpg" />
             <div class="card-body">
               <p class="card-text">
-                这一年开始
+                那一年
                 <br />进入衰老……
               </p>
               <div class="d-flex justify-content-between align-items-center">
@@ -199,7 +199,7 @@
             <img width="100%" height="100%" src="../assets/images/2007/5.jpg" />
             <div class="card-body">
               <p class="card-text">
-                这一年开始
+                那一年
                 <br />不熟的交情开始流失……
               </p>
               <div class="d-flex justify-content-between align-items-center">
@@ -219,7 +219,7 @@
             <div class="card-body">
               <p class="card-text">
                 大地震
-                <br />照像也也有震感……
+                <br />照像也有震感……
               </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
@@ -351,8 +351,7 @@
             <img width="100%" height="100%" src="../assets/images/2015/92.jpg" />
             <div class="card-body">
               <p class="card-text">
-                这一年开始
-                <br />加速衰老……
+                开始加速衰老……
               </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
@@ -370,8 +369,7 @@
             <img width="100%" height="100%" src="../assets/images/2016/96.jpg" />
             <div class="card-body">
               <p class="card-text">
-                这一年
-                <br />很神秘……
+                北京热……
               </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
@@ -389,8 +387,7 @@
             <img width="100%" height="100%" src="../assets/images/2017/37.jpg" />
             <div class="card-body">
               <p class="card-text">
-                这一年
-                <br />很神秘……
+                总算 总算……
               </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
@@ -408,8 +405,7 @@
             <img width="100%" height="100%" src="../assets/images/2018/0.jpg" />
             <div class="card-body">
               <p class="card-text">
-                这一年
-                <br />很神秘……
+                三高朋友圈……
               </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
@@ -427,8 +423,7 @@
             <img width="100%" height="100%" src="../assets/images/2019/269.jpg" />
             <div class="card-body">
               <p class="card-text">
-                这一年
-                <br />很神秘……
+                终于 终于……
               </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
