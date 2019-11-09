@@ -48,7 +48,6 @@
       <img class="container my-3 p-3 bg-white rounded shadow-sm" src="../assets/images/2009/42.jpg" />
       <img class="container my-3 p-3 bg-white rounded shadow-sm" src="../assets/images/2009/43.jpg" />
       <img class="container my-3 p-3 bg-white rounded shadow-sm" src="../assets/images/2009/44.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="../assets/images/2009/45.jpg" />
     </div>
   </main>
 </template>
