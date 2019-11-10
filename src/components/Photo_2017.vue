@@ -56,6 +56,14 @@
       <img class="container my-3 p-3 bg-white rounded shadow-sm" src="../assets/images/2017/50.jpg" />
       <img class="container my-3 p-3 bg-white rounded shadow-sm" src="../assets/images/2017/51.jpg" />
       <img class="container my-3 p-3 bg-white rounded shadow-sm" src="../assets/images/2017/52.jpg" />
+      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="../assets/images/2017/53.jpg" />
+      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="../assets/images/2017/54.jpg" />
+      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="../assets/images/2017/55.jpg" />
+      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="../assets/images/2017/56.jpg" />
+      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="../assets/images/2017/57.jpg" />
+      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="../assets/images/2017/58.jpg" />
+      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="../assets/images/2017/59.jpg" />
+      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="../assets/images/2017/60.jpg" />
     </div>
   </main>
 </template>
