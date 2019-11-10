@@ -350,9 +350,7 @@
           <div class="card mb-4 shadow-sm">
             <img width="100%" height="100%" src="../assets/images/2015/92.jpg" />
             <div class="card-body">
-              <p class="card-text">
-                开始加速衰老……
-              </p>
+              <p class="card-text">开始加速衰老……</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <router-link to="/photo_2015">
@@ -368,9 +366,7 @@
           <div class="card mb-4 shadow-sm">
             <img width="100%" height="100%" src="../assets/images/2016/63.jpg" />
             <div class="card-body">
-              <p class="card-text">
-                北京热……
-              </p>
+              <p class="card-text">北京热……</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <router-link to="/photo_2016">
@@ -386,9 +382,7 @@
           <div class="card mb-4 shadow-sm">
             <img width="100%" height="100%" src="../assets/images/2017/43.jpg" />
             <div class="card-body">
-              <p class="card-text">
-                总算 总算……
-              </p>
+              <p class="card-text">总算 总算……</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <router-link to="/photo_2017">
@@ -404,9 +398,7 @@
           <div class="card mb-4 shadow-sm">
             <img width="100%" height="100%" src="../assets/images/2018/10.jpg" />
             <div class="card-body">
-              <p class="card-text">
-                三高朋友圈……
-              </p>
+              <p class="card-text">三高朋友圈……</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <router-link to="/photo_2018">
@@ -422,9 +414,7 @@
           <div class="card mb-4 shadow-sm">
             <img width="100%" height="100%" src="../assets/images/2019/389.jpg" />
             <div class="card-body">
-              <p class="card-text">
-                终于 终于……
-              </p>
+              <p class="card-text">终于 终于……</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <router-link to="/photo_2019">
