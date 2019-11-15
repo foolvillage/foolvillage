@@ -1,12 +1,16 @@
 <template>
   <main role="main" class="flex-shrink-0">
+    <section class="jumbotron text-center">
+      <div class="container">
+        <h3 class="jumbotron-heading">留下影像的，都是记不清的场景……</h3>
+        <p class="lead text-muted">发胖、脱发、谢顶、老脸松弛的时间线！</p>
+      </div>
+    </section>
     <div class="container starter-template">
-      <h4>留下影像的，都是记不清的场景……</h4>
-      <p class="lead">发胖、脱发、谢顶、老脸松弛的时间线！</p>
       <div class="row">
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/1997/1.jpg" />
+            <img width="100%" height="100%" src="/static/img/1997/1.jpg" />
             <div class="card-body">
               <p class="card-text">
                 加入 WTO 之前
@@ -25,11 +29,11 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/1998/2.jpg" />
+            <img width="100%" height="100%" src="/static/img/1998/2.jpg" />
             <div class="card-body">
               <p class="card-text">
                 南方发大水
-                <br />我们看热闹……
+                <br />我们浪啊浪……
               </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
@@ -44,11 +48,11 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/1999/0.jpg" />
+            <img width="100%" height="100%" src="/static/img/1999/0.jpg" />
             <div class="card-body">
               <p class="card-text">
                 本以为是结束
-                <br />实际才刚刚开始……
+                <br />其实才刚刚开始……
               </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
@@ -63,11 +67,11 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2000/3.jpg" />
+            <img width="100%" height="100%" src="/static/img/2000/3.jpg" />
             <div class="card-body">
               <p class="card-text">
                 新世纪
-                <br />老造型……
+                <br />走天涯……
               </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
@@ -82,7 +86,7 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2001/0.jpg" />
+            <img width="100%" height="100%" src="/static/img/2001/0.jpg" />
             <div class="card-body">
               <p class="card-text">
                 这一年
@@ -101,11 +105,11 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2002/0.jpg" />
+            <img width="100%" height="100%" src="/static/img/2002/0.jpg" />
             <div class="card-body">
               <p class="card-text">
-                一个字
-                <br />没什么可说的……
+                手拉手的
+                <br />是闺蜜……
               </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
@@ -120,7 +124,7 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2003/0.jpg" />
+            <img width="100%" height="100%" src="/static/img/2003/0.jpg" />
             <div class="card-body">
               <p class="card-text">
                 这一年
@@ -139,7 +143,7 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2004/0.jpg" />
+            <img width="100%" height="100%" src="/static/img/2004/0.jpg" />
             <div class="card-body">
               <p class="card-text">
                 这一年
@@ -158,7 +162,7 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2005/0.jpg" />
+            <img width="100%" height="100%" src="/static/img/2005/0.jpg" />
             <div class="card-body">
               <p class="card-text">
                 这一年
@@ -177,10 +181,10 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2006/0.jpg" />
+            <img width="100%" height="100%" src="/static/img/2006/0.jpg" />
             <div class="card-body">
               <p class="card-text">
-                那一年
+                开始
                 <br />进入衰老……
               </p>
               <div class="d-flex justify-content-between align-items-center">
@@ -196,11 +200,11 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2007/5.jpg" />
+            <img width="100%" height="100%" src="/static/img/2007/5.jpg" />
             <div class="card-body">
               <p class="card-text">
-                那一年
-                <br />不熟的交情开始流失……
+                半生不熟的交情
+                <br />开始准备流失……
               </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
@@ -215,7 +219,7 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2008/0.jpg" />
+            <img width="100%" height="100%" src="/static/img/2008/0.jpg" />
             <div class="card-body">
               <p class="card-text">
                 大地震
@@ -234,11 +238,10 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2009/35.jpg" />
+            <img width="100%" height="100%" src="/static/img/2009/35.jpg" />
             <div class="card-body">
               <p class="card-text">
-                就是从这个时候
-                <br />开始脏了起来……
+                开始<br />脏了起来……
               </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
@@ -253,11 +256,11 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2010/0.jpg" />
+            <img width="100%" height="100%" src="/static/img/2010/0.jpg" />
             <div class="card-body">
               <p class="card-text">
-                这是最重要的历史时刻
-                <br />你们懂的……
+                开始
+                <br />开始……
               </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
@@ -272,7 +275,7 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2011/0.jpg" />
+            <img width="100%" height="100%" src="/static/img/2011/0.jpg" />
             <div class="card-body">
               <p class="card-text">
                 这一年
@@ -291,7 +294,7 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2012/0.jpg" />
+            <img width="100%" height="100%" src="/static/img/2012/0.jpg" />
             <div class="card-body">
               <p class="card-text">
                 这一年
@@ -310,7 +313,7 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2013/0.jpg" />
+            <img width="100%" height="100%" src="/static/img/2013/0.jpg" />
             <div class="card-body">
               <p class="card-text">
                 一个字
@@ -329,7 +332,7 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2014/0.jpg" />
+            <img width="100%" height="100%" src="/static/img/2014/0.jpg" />
             <div class="card-body">
               <p class="card-text">
                 一个字
@@ -348,7 +351,7 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2015/92.jpg" />
+            <img width="100%" height="100%" src="/static/img/2015/92.jpg" />
             <div class="card-body">
               <p class="card-text">开始加速衰老……</p>
               <div class="d-flex justify-content-between align-items-center">
@@ -364,7 +367,7 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2016/63.jpg" />
+            <img width="100%" height="100%" src="/static/img/2016/63.jpg" />
             <div class="card-body">
               <p class="card-text">北京热……</p>
               <div class="d-flex justify-content-between align-items-center">
@@ -380,7 +383,7 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2017/43.jpg" />
+            <img width="100%" height="100%" src="/static/img/2017/43.jpg" />
             <div class="card-body">
               <p class="card-text">总算 总算……</p>
               <div class="d-flex justify-content-between align-items-center">
@@ -396,7 +399,7 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2018/10.jpg" />
+            <img width="100%" height="100%" src="/static/img/2018/10.jpg" />
             <div class="card-body">
               <p class="card-text">三高朋友圈……</p>
               <div class="d-flex justify-content-between align-items-center">
@@ -412,7 +415,7 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img width="100%" height="100%" src="../assets/images/2019/389.jpg" />
+            <img width="100%" height="100%" src="/static/img/2019/389.jpg" />
             <div class="card-body">
               <p class="card-text">终于 终于……</p>
               <div class="d-flex justify-content-between align-items-center">
