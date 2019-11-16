@@ -6,68 +6,70 @@
         <p class="lead text-muted">等你等到花儿都开了！</p>
       </div>
     </section>
-    <div class="container starter-template">
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/0.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/1.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/2.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/3.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/4.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/5.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/6.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/7.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/8.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/9.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/10.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/11.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/12.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/13.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/14.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/15.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/16.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/17.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/18.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/19.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/20.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/21.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/22.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/23.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/24.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/25.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/26.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/27.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/28.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/29.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/30.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/31.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/32.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/33.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/34.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/35.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/36.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/37.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/38.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/39.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/40.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/41.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/42.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/43.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/44.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/45.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/46.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/47.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/48.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/49.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/50.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/51.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/52.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/53.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/54.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/55.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/56.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/57.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/58.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/59.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2017/60.jpg" />
+    <div id="context">
+      <vue-waterfall-easy
+        ref="waterfall"
+        :imgsArr="imgsArr"
+        :imgWidth="480"
+        :maxCols="3"
+        :loadingDotCount="0"
+        :enablePullDownEvent="true"
+        @scrollReachBottom="getData"
+      ></vue-waterfall-easy>
     </div>
   </main>
 </template>
+
+
+<script>
+import vueWaterfallEasy from "vue-waterfall-easy";
+
+export default {
+  data() {
+    return {
+      imgsArr: [],
+      group: 0
+    };
+  },
+
+  components: {
+    vueWaterfallEasy
+  },
+
+  methods: {
+    getData() {
+      var i = 0;
+      for (i = 0; i <= 8; i++) {
+        if (this.group > 60) {
+          try {
+            this.$refs.waterfall.waterfallOver();
+          } catch (e) {
+            console.log(e);
+          }
+          return;
+        }
+
+        this.imgsArr = this.imgsArr.concat({
+          src: "/static/img/2017/" + this.group + ".jpg",
+          href: "/static/img/2017/" + this.group++ + ".jpg"
+        });
+      }
+
+      return;
+    }
+  },
+
+  created() {
+    this.getData();
+  }
+};
+</script>
+
+<style scoped>
+#context {
+  position: absolute;
+  top: 332px;
+  bottom: 0;
+  width: 100%;
+}
+</style>

@@ -6,18 +6,69 @@
         <p class="lead text-muted">那时的牛仔裤是高腰的</p>
       </div>
     </section>
-    <div class="container starter-template">
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/1997/0.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/1997/1.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/1997/2.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/1997/3.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/1997/4.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/1997/5.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/1997/6.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/1997/7.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/1997/8.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/1997/9.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/1997/10.jpg" />
+    <div id="context">
+      <vue-waterfall-easy
+        ref="waterfall"
+        :imgsArr="imgsArr"
+        :imgWidth="480"
+        :maxCols="3"
+        :loadingDotCount="0"
+        :enablePullDownEvent="true"
+        @scrollReachBottom="getData"
+      ></vue-waterfall-easy>
     </div>
   </main>
 </template>
+
+<script>
+import vueWaterfallEasy from "vue-waterfall-easy";
+
+export default {
+  data() {
+    return {
+      imgsArr: [],
+      group: 0
+    };
+  },
+
+  components: {
+    vueWaterfallEasy
+  },
+
+  methods: {
+    getData() {
+      var i = 0;
+      for (i = 0; i <= 8; i++) {
+        if (this.group > 10) {
+          try {
+            this.$refs.waterfall.waterfallOver();
+          } catch (e) {
+            console.log(e);
+          }
+          return;
+        }
+
+        this.imgsArr = this.imgsArr.concat({
+          src: "/static/img/1997/" + this.group + ".jpg",
+          href: "/static/img/1997/" + this.group++ + ".jpg"
+        });
+      }
+
+      return;
+    }
+  },
+
+  created() {
+    this.getData();
+  }
+};
+</script>
+
+<style scoped>
+#context {
+  position: absolute;
+  top: 332px;
+  bottom: 0;
+  width: 100%;
+}
+</style>

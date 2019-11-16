@@ -6,19 +6,70 @@
         <p class="lead text-muted">还是吃白水面片子舒服！</p>
       </div>
     </section>
-    <div class="container starter-template">
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2018/0.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2018/1.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2018/2.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2018/3.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2018/4.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2018/5.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2018/6.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2018/7.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2018/8.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2018/9.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2018/10.jpg" />
-      <img class="container my-3 p-3 bg-white rounded shadow-sm" src="/static/img/2018/11.jpg" />
+    <div id="context">
+      <vue-waterfall-easy
+        ref="waterfall"
+        :imgsArr="imgsArr"
+        :imgWidth="480"
+        :maxCols="3"
+        :loadingDotCount="0"
+        :enablePullDownEvent="true"
+        @scrollReachBottom="getData"
+      ></vue-waterfall-easy>
     </div>
   </main>
 </template>
+
+
+<script>
+import vueWaterfallEasy from "vue-waterfall-easy";
+
+export default {
+  data() {
+    return {
+      imgsArr: [],
+      group: 0
+    };
+  },
+
+  components: {
+    vueWaterfallEasy
+  },
+
+  methods: {
+    getData() {
+      var i = 0;
+      for (i = 0; i <= 8; i++) {
+        if (this.group > 11) {
+          try {
+            this.$refs.waterfall.waterfallOver();
+          } catch (e) {
+            console.log(e);
+          }
+          return;
+        }
+
+        this.imgsArr = this.imgsArr.concat({
+          src: "/static/img/2018/" + this.group + ".jpg",
+          href: "/static/img/2018/" + this.group++ + ".jpg"
+        });
+      }
+
+      return;
+    }
+  },
+
+  created() {
+    this.getData();
+  }
+};
+</script>
+
+<style scoped>
+#context {
+  position: absolute;
+  top: 332px;
+  bottom: 0;
+  width: 100%;
+}
+</style>
