@@ -1,11 +1,9 @@
 <template>
   <main role="main" class="flex-shrink-0">
-    <section class="jumbotron text-center">
-      <div class="container">
-        <h3 class="jumbotron-heading">开始进入衰老……</h3>
-        <p class="lead text-muted">眼下的事不好说，以后的事说不好，只能怀念过去！</p>
-      </div>
-    </section>
+    <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+      <h3 class="jumbotron-heading">开始进入衰老……</h3>
+      <p class="lead text-muted">眼下的事不好说，以后的事说不好，只能怀念过去！</p>
+    </div>
     <div id="context">
       <vue-waterfall-easy
         ref="waterfall"
@@ -68,7 +66,7 @@ export default {
 <style scoped>
 #context {
   position: absolute;
-  top: 332px;
+  top: 200px;
   bottom: 0;
   width: 100%;
 }

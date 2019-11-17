@@ -39,17 +39,14 @@
 </template>
 
 <script>
-export default {
-  name: "App"
-};
+export default {};
 </script>
 
 <style>
 body {
-  padding-top: 5rem;
+  padding-top: 60px;
 }
-.starter-template {
-  padding: 3rem 1.5rem;
-  text-align: center;
+.pricing-header{
+padding-top: 0px;
 }
 </style>

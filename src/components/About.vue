@@ -1,11 +1,9 @@
 <template>
   <main role="main" class="flex-shrink-0">
-    <section class="jumbotron text-center">
-      <div class="container">
-        <h3 class="jumbotron-heading">钢铁是怎样没有炼成的……</h3>
-        <p class="lead text-muted">从未成年人渣到成年人渣！</p>
-      </div>
-    </section>
+    <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+      <h3 class="jumbotron-heading">钢铁是怎样没有炼成的……</h3>
+      <p class="lead text-muted">从未成年人渣到成年人渣！</p>
+    </div>
     <div class="container starter-template">
       <!-- div class="text-left">
         <vue-markdown>{{msg}}</vue-markdown>

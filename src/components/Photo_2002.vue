@@ -1,11 +1,9 @@
 <template>
   <main role="main" class="flex-shrink-0">
-    <section class="jumbotron text-center">
-      <div class="container">
-        <h3 class="jumbotron-heading">手拉手的，是闺蜜……</h3>
-        <p class="lead text-muted">同性闺蜜都有快乐的秘密，异性闺蜜都有难言的苦衷！</p>
-      </div>
-    </section>
+    <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+      <h3 class="jumbotron-heading">手拉手的，是闺蜜……</h3>
+      <p class="lead text-muted">同性闺蜜都有快乐的秘密，异性闺蜜都有难言的苦衷！</p>
+    </div>
     <div id="context">
       <vue-waterfall-easy
         ref="waterfall"
@@ -68,7 +66,7 @@ export default {
 <style scoped>
 #context {
   position: absolute;
-  top: 332px;
+  top: 200px;
   bottom: 0;
   width: 100%;
 }
